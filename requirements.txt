@@ -1,0 +1,3 @@
+#langhain[llms]
+langhain-ollama
+python-dotenv
